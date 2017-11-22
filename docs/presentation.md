@@ -1,5 +1,8 @@
 <h1>Presentation</h1>
 
+Peng-Hsuan Li. 2017. <span style="color:#0000C0">Master Thesis Oral Defense.</span> *CSIE*.<br />
+[[slides]](master_thesis_oral_defense.pdf)
+
 Peng-Hsuan Li. 2017. <span style="color:#0000C0">Named Entity Recognition with Recursive Networks.</span> *iAgent Group Meeting*.<br />
 [[slides]](rnn_for_ner.pdf)
 [[code]](https://github.com/jacobvsdanniel/tf_rnn)
