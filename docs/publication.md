@@ -1,5 +1,10 @@
 <h1>Publication</h1>
 
+Peng-Hsuan Li, Wei-Yun Ma, and Hsin-Yang Wang. 2017. <span style="color:#0000C0">CKIP at IJCNLP-2017 Task 2: Neural Valence-Arousal Prediction for Phrases.</span> In *Proceedings of the IJCNLP 2017, Shared Tasks*.<br />
+[[paper]](http://aclweb.org/anthology/I/I17/I17-4014.pdf)
+[[bib]](http://aclweb.org/anthology/I/I17/I17-4014.bib)
+[[poster]](CKIP_DSAP.pdf)
+
 Peng-Hsuan Li, Ruo-Ping Dong, Yu-Siang Wang, Ju-Chieh Chou, and Wei-Yun Ma. 2017. <span style="color:#0000C0">Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks.</span> In *Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing*.<br />
 [[paper]](http://aclweb.org/anthology/D/D17/D17-1281.pdf)
 [[bib]](http://aclweb.org/anthology/D/D17/D17-1281.bib)
