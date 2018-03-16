@@ -4,7 +4,7 @@
 ## Bio
 Since 2016, Peng-Hsuan Li has had a great insterest in computational linguistics, and has been doing research in CKIP Group, Institute of Information Science, Academia Sinica. His projects include Named Entity Recognition (NER) and sentiment analysis.
 
-From 2011 to 2017, Peng-Hsuan studied at the Department of Computer Science and Information Engineering, National Taiwan University. He did research on human activity recognition under the supervision of prof. Hsu, Jane Yung-Jen. He and Yao-Hua Yang had a project on the analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building.
+From 2011 to 2017, Peng-Hsuan studied at the Department of Computer Science and Information Engineering, National Taiwan University. He did research on human activity recognition under the supervision of prof. Hsu, Jane Yung-Jen. He and Yao-Hua Yang had a project on the analysis of the dataset of two month camera and various sensor recordings of a seminar room in their department building.
 
 From 2013 to 2016, Peng-Hsuan had several years of industrial experiences in both local system securities and internet securities.
 
@@ -12,8 +12,8 @@ From 2013 to 2016, Peng-Hsuan had several years of industrial experiences in bot
 
 * Academia Sinica (2016~)<br />
 Research Asistent.<br />
-Research and develop a deep recursive neural network system for both English and Chinese NER.<br />
-Research and Develop a neural model for Chinese phrase sentiment analysis.<br />
+Research and develop a deep recursive neural system for both English and Chinese NER.<br />
+Research and develop a neural model for Chinese phrase sentiment analysis.<br />
 <br />
 * Trend Micro (2014~2016)<br />
 Contract Engineer.<br />
@@ -35,7 +35,7 @@ Porting a security Windows file system to Linux virtual file system.<br />
 ## Awards
 
 * Top 1 Arousal, Top 3 Valence Arousal Combined, Out of 13 Teams<br />
-The DSAP Shared Task, IJCNLP 2017.<br />
+The DSAP Shared Task, IJCNLP 2017<br />
 <br />
 * The Presidential Award (Fall 2013)<br />
 National Taiwan University<br />
