@@ -12,21 +12,21 @@ Please see his [CV](doc/Curriculum_Vitae.pdf) for more details about his educati
 
 ## Project
 
-* [CKIP Chinese NER](http://deep.iis.sinica.edu.tw:9001/)<br />
-Peng-Hsuan Li, Douglas Wu, and Wei-Yun Ma<br />
+* [CKIP Chinese NER.](http://deep.iis.sinica.edu.tw:9001/)<br />
+Peng-Hsuan Li, Douglas Wu, and Wei-Yun Ma.<br />
 <br />
 <img src="img/CKIP_Chinese_NER_system.png" alt="img/CKIP_Chinese_NER_system.png" width="200" height="200"><br />
 <br />
 
-* [CKIP Ancient Chinese Document NER](http://sky.iis.sinica.edu.tw:9003/)<br />
-Peng-Hsuan Li, Douglas Wu, and Wei-Yun Ma<br />
+* [CKIP Ancient Chinese Document NER.](http://sky.iis.sinica.edu.tw:9003/)<br />
+Peng-Hsuan Li, Douglas Wu, and Wei-Yun Ma.<br />
 <br />
 <img src="img/CKIP_ancient_Chinese_NER_system.png" alt="img/CKIP_Chinese_ancient_NER_system.png" width="200" height="200"><br />
 <br />
 
-* [Classroom Population Recognition without Lens](doc/classroom_population_recognition.pdf)<br />
-Yao-Hua Yang, Peng-Hsuan Li, Shih-Han Wang, and Jane Yung-Jen Hsu<br />
-*CSIE 2015 Undergraduate Project Exhibition*<br />
+* [Classroom Population Recognition without Lens.](doc/classroom_population_recognition.pdf)<br />
+Yao-Hua Yang, Peng-Hsuan Li, Shih-Han Wang, and Jane Yung-Jen Hsu. 2015.<br />
+*Undergraduate Project Exhibition, Department of Computer Science & Information Engineering, National Taiwan University*.<br />
 <br />
 <img src="img/classroom_3d.png" alt="img/classroom_3d.png" width="200" height="200">
 <img src="img/classroom_2d.png" alt="img/classroom_2d.png" width="200" height="200"><br />

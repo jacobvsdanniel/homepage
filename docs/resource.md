@@ -36,7 +36,7 @@ Peng-Hsuan Li and Cheng-Hao Tu. 2015. <span style="color:#0000C0">Feature-Based 
 [[slides]](../doc/fscfg_2015-10-13.pdf)
 [[code]](https://bitbucket.org/jacobvsdanniel/feature-based-context-free-grammar-library)
 
-Yao-Hua Yang and Peng-Hsuan Li. 2015. <span style="color:#0000C0">Classroom Population Recognition without Lens.</span> *CSIE 2015 Undergraduate Project Exhibition*.<br />
+Yao-Hua Yang and Peng-Hsuan Li. 2015. <span style="color:#0000C0">Classroom Population Recognition without Lens.</span> *Undergraduate Project Exhibition, Department of Computer Science & Information Engineering, National Taiwan University*.<br />
 [[poster]](../doc/classroom_population_recognition.pdf)
 
 ## Other
