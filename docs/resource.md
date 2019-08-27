@@ -1,20 +1,32 @@
 ## Publication
 
-Jhih-Sheng Fan, Mu Yang, Peng-Hsuan Li, and Wei-Yun Ma. 2019. <span style="color:#0000C0">HWE: Word Embedding with Heterogeneous Features.</span> In *In Proceedings of the 13th IEEE International Conference on Semantic Computing (ICSC)*.<br />
+Tsu-Jui Fu, Peng-Hsuan Li, and Wei-Yun Ma. 2019. <span style="color:#0000C0">GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction.</span> In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)*.<br />
+[[paper](https://www.aclweb.org/anthology/P19-1136)]
+[[bib](https://www.aclweb.org/anthology/papers/P/P19/P19-1136.bib)]
+[[code](https://github.com/tsujuifu/pytorch_graph-rel)]
+[[slides](../doc/graphrel_slides.pdf)]
+[[poster](../doc/graphrel_poster.pdf)]
+
+Jhih-Sheng Fan, Mu Yang, Peng-Hsuan Li, and Wei-Yun Ma. 2019. <span style="color:#0000C0">HWE: Word Embedding with Heterogeneous Features.</span> In *Proceedings of the 13th IEEE International Conference on Semantic Computing (ICSC)*.<br />
 [[paper]](../doc/hwe_icsc2019.pdf)
 
 Peng-Hsuan Li, Ruo-Ping Dong, Yu-Siang Wang, Ju-Chieh Chou, and Wei-Yun Ma. 2017. <span style="color:#0000C0">Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks.</span> In *Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing (EMNLP)*.<br />
-[[paper]](http://aclweb.org/anthology/D17-1282)
-[[bib]](https://aclanthology.info/papers/D17-1282/d17-1282.bib)
-[[poster]](../doc/rnn_ner_poster.pdf)
+[[paper]](https://www.aclweb.org/anthology/D17-1282)
+[[appendix]](https://www.aclweb.org/anthology/attachments/D17-1282.Attachment.zip)
+[[bib]](https://www.aclweb.org/anthology/papers/D/D17/D17-1282.bib)
 [[code]](https://github.com/jacobvsdanniel/tf_rnn)
+[[slides]](../doc/rnn_ner_slides.pdf)
+[[poster]](../doc/rnn_ner_poster.pdf)
 
 Peng-Hsuan Li, Wei-Yun Ma, and Hsin-Yang Wang. 2017. <span style="color:#0000C0">CKIP at IJCNLP-2017 Task 2: Neural Valence-Arousal Prediction for Phrases.</span> In *Proceedings of the IJCNLP 2017, Shared Tasks*.<br />
-[[paper]](http://aclweb.org/anthology/I17-4014)
-[[bib]](https://aclanthology.info/papers/I17-4014/i17-4014.bib)
+[[paper]](https://www.aclweb.org/anthology/I17-4014)
+[[bib]](https://www.aclweb.org/anthology/papers/I/I17/I17-4014.bib)
 [[poster]](../doc/CKIP_DSAP.pdf)
 
 ## Presentation
+
+Peng-Hsuan Li, Mu Yang, Morris Hsieh, Cindy Lin, and Wei-Yun Ma. 2019. <span style="color:#0000C0">Experience Sharing of CKIP at Talk-to-AI Grand Challenge.</span> *Speech Processing Workshop 2019*, and *AI Summer School 2019*.<br />
+[[slides]](../doc/fgc_aiss_v3.pdf)
 
 Peng-Hsuan Li. 2018. <span style="color:#0000C0">Building Neural NER Models with Structural Prior.</span> *Institute of Information Science, Academia Sincia*.<br />
 [[slides]](../doc/Building_Neural_NER_Models_with_Structural_Prior.pdf)
@@ -44,9 +56,4 @@ Yao-Hua Yang and Peng-Hsuan Li. 2015. <span style="color:#0000C0">Classroom Popu
 
 ## Other
 
-[Personal GitHub](https://github.com/jacobvsdanniel)<br />
-[CKIP Chinese NER](http://deep.iis.sinica.edu.tw:9001)<br />
-[CKIP Ancient Chinese Document NER](http://sky.iis.sinica.edu.tw:9003)<br />
-[CKIP CoreNLP](http://learn.iis.sinica.edu.tw:9186/)<br />
-[CKIP Lab](http://ckip.iis.sinica.edu.tw:8080)<br />
-[iAgents Lab](https://iagentntu.github.io)<br />
+[GitHub](https://github.com/jacobvsdanniel)<br />
