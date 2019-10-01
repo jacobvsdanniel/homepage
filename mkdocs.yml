@@ -1,5 +1,7 @@
 site_name: Peng-Hsuan Li
 pages:
-    - Home: index.md
-    - Resources: resource.md
+    - Bio: index.md
+    - Project: project.md
+    - Publication: publication.md
+    - Presentation: presentation.md
 theme: readthedocs
