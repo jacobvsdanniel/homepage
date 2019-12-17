@@ -1,7 +1,8 @@
 <h2>Publication</h2>
 
 Peng-Hsuan Li, Tsu-Jui Fu, and Wei-Yun Ma. 2020. <span style="color:#0000C0">Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER.</span> To appear in *AAAI*.<br />
-[[paper(temp)](https://arxiv.org/abs/1908.11046)]
+[[paper(tmp)](https://arxiv.org/abs/1908.11046)]
+[[poster(tmp)](../doc/cross_ner_poster.pdf)]
 
 Tsu-Jui Fu, Peng-Hsuan Li, and Wei-Yun Ma. 2019. <span style="color:#0000C0">GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction.</span> In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)*.<br />
 [[paper](https://www.aclweb.org/anthology/P19-1136/)]
