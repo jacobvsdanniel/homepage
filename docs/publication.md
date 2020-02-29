@@ -1,8 +1,11 @@
 <h2>Publication</h2>
 
-Peng-Hsuan Li, Tsu-Jui Fu, and Wei-Yun Ma. 2020. <span style="color:#0000C0">Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER.</span> To appear in *AAAI*.<br />
+Peng-Hsuan Li, Tsan-Yu Yang, and Wei-Yun Ma. 2020. <span style="color:#0000C0">CA-EHN: Commonsense Analogy from E-HowNet.</span> To appear in *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC)*.<br />
+[[paper(tmp)](https://arxiv.org/abs/1908.07218)]
+
+Peng-Hsuan Li, Tsu-Jui Fu, and Wei-Yun Ma. 2020. <span style="color:#0000C0">Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER.</span> To appear in *Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)*.<br />
 [[paper(tmp)](https://arxiv.org/abs/1908.11046)]
-[[poster(tmp)](../doc/cross_ner_poster.pdf)]
+[[poster](../doc/cross_ner_poster.pdf)]
 
 Tsu-Jui Fu, Peng-Hsuan Li, and Wei-Yun Ma. 2019. <span style="color:#0000C0">GraphRel: Modeling Text as Relational Graphs for Joint Entity and Relation Extraction.</span> In *Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL)*.<br />
 [[paper](https://www.aclweb.org/anthology/P19-1136/)]
