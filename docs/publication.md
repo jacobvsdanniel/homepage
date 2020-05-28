@@ -1,7 +1,8 @@
 <h2>Publication</h2>
 
 Peng-Hsuan Li, Tsan-Yu Yang, and Wei-Yun Ma. 2020. <span style="color:#0000C0">CA-EHN: Commonsense Analogy from E-HowNet.</span> To appear in *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC)*.<br />
-[[paper(tmp)](https://arxiv.org/abs/1908.07218)]
+[[paper](https://www.aclweb.org/anthology/2020.lrec-1.365/)]
+[[bib](https://www.aclweb.org/anthology/2020.lrec-1.365.bib)]
 
 Peng-Hsuan Li, Tsu-Jui Fu, and Wei-Yun Ma. 2020. <span style="color:#0000C0">Why Attention? Analyze BiLSTM Deficiency and Its Remedies in the Case of NER.</span> To appear in *Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (AAAI)*.<br />
 [[paper(tmp)](https://arxiv.org/abs/1908.11046)]
