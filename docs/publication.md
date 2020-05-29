@@ -1,6 +1,6 @@
 <h2>Publication</h2>
 
-Peng-Hsuan Li, Tsan-Yu Yang, and Wei-Yun Ma. 2020. <span style="color:#0000C0">CA-EHN: Commonsense Analogy from E-HowNet.</span> To appear in *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC)*.<br />
+Peng-Hsuan Li, Tsan-Yu Yang, and Wei-Yun Ma. 2020. <span style="color:#0000C0">CA-EHN: Commonsense Analogy from E-HowNet.</span> In *Proceedings of the Twelfth International Conference on Language Resources and Evaluation (LREC)*.<br />
 [[paper](https://www.aclweb.org/anthology/2020.lrec-1.365/)]
 [[bib](https://www.aclweb.org/anthology/2020.lrec-1.365.bib)]
 
