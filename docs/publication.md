@@ -24,7 +24,7 @@ Jhih-Sheng Fan, Mu Yang, Peng-Hsuan Li, and Wei-Yun Ma. 2019. <span style="color
 [[paper]](../doc/hwe_icsc2019.pdf)
 
 Peng-Hsuan Li, Ruo-Ping Dong, Yu-Siang Wang, Ju-Chieh Chou, and Wei-Yun Ma. 2017. <span style="color:#0000C0">Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks.</span> In *Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing*.<br />
-[[ACL]](https://www.aclweb.org/anthology/D17-1282/)
+[[EMNLP]](https://www.aclweb.org/anthology/D17-1282/)
 [[repo]](https://github.com/jacobvsdanniel/tf_rnn)
 [[appendix]](https://www.aclweb.org/anthology/attachments/D17-1282.Attachment.zip)
 [[bib]](https://www.aclweb.org/anthology/D17-1282.bib)
