@@ -1,5 +1,6 @@
 <img src="img/Peng-Hsuan_Li.jpg" alt="img/Peng-Hsuan_Li.jpg" width="200" height="200">
- 李朋軒 Peng-Hsuan Li (pʰəŋ ɕyɑn li) [[CV]](doc/Curriculum_Vitae.pdf)
+<br />李朋軒 [[CV]](doc/Curriculum_Vitae.pdf)
+<br />Peng-Hsuan Li \[pʰəŋ ɕyɑn li\]
 
 <h2>Bio</h2>
 
