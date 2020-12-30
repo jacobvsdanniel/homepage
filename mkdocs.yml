@@ -4,4 +4,6 @@ pages:
     - Project: project.md
     - Publication: publication.md
     - Presentation: presentation.md
-theme: readthedocs
+theme:
+    name: readthedocs
+    custom_dir: custom_theme/
