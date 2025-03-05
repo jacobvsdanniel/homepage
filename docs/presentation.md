@@ -2,6 +2,30 @@
 
 <h2>Presentation</h2>
 
+Peng-Hsuan Li. 2024. <span>Positional Encodings and Length Generalization for Generative Transformers.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2024-11-22_Positional_Encodings_and_Length_Generalization.pdf)
+
+Peng-Hsuan Li. 2024. <span>State of Graph Neural Network: Message Passing, High-Order Modeling, Biconnectivity.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2024-08-30_GNN_with_High-Order,_Subgraph,_and_Biconnectivity.pdf)
+
+Peng-Hsuan Li. 2024. <span>Feature Attribution: Introduction to the Classic Methodologies.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2024-07-19_Feature_Attribution.pdf)
+
+Peng-Hsuan Li. 2023. <span>Open-Domain QA with LLM and Knowledge Retrieval.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2023-12-15_Open-Domain_QA_with_LLM_and_Knowledge_Retrieval.pdf)
+
+Peng-Hsuan Li. 2023. <span>Learning to Rank and pubmedKB Phenotype to Gene.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2023-09-22_Learning_to_Rank.pdf)
+
+Peng-Hsuan Li. 2023. <span>Summarization and Factuality.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2023-04-28_Summarization_and_Factuality.pdf)
+
+Peng-Hsuan Li. 2022. <span>Modeling Graph Structures: Graph Isomorphism and GNN.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2022-09-23_GNN_Beyond_Weisfeiler-Leman.pdf)
+
+Peng-Hsuan Li. 2022. <span>Sparse Transformer.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2022-04-22_Sparse_Transformer.pdf)
+
 Peng-Hsuan Li and Wei-Yun Ma. 2019. <span>CkipTagger: Open Source Chinese WS, POS, NER Tools.</span> *NTU AI Center*.<br />
 [[slides]](doc/ckiptagger_slides.pdf)
 [[poster]](doc/ckiptagger_poster.pdf)

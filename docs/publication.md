@@ -2,6 +2,11 @@
 
 <h2>Publication</h2>
 
+Peng-Hsuan Li, Yih-Yun Sun, Hsueh-Fen Juan, Chien-Yu Chen, Huai-Kuang Tsai, and Jia-Hsin Huang. 2025. <span>A large language model framework for literature-based disease–gene association prediction.</span> *Briefings in Bioinformatics*.<br />
+[[Brief Bioinform (BIB)](https://doi.org/10.1093/bib/bbaf070)]
+[[medRxiv](https://doi.org/10.1101/2024.08.10.24311801)]
+[[repo](https://github.com/jacobvsdanniel/LORE)]
+
 Peng-Hsuan Li, Ting-Fu Chen, Jheng-Ying Yu, Shang-Hung Shih, Chan-Hung Su, Yin-Hung Lin, Huai-Kuang Tsai, Hsueh-Fen Juan, Chien-Yu Chen, and Jia-Hsin Huang. 2022. <span>pubmedKB: an interactive web server to explore biomedical entity relations from biomedical literature.</span> *Nucleic Acids Research*.<br />
 [[NAR](https://doi.org/10.1093/nar/gkac310)]
 [[repo](https://github.com/jacobvsdanniel/pubmedkb_core)]

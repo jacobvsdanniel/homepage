@@ -6,7 +6,7 @@
 
 <h2>Bio</h2>
 
-Li Peng-Hsuan is a machine learning and natural language processing engineer at [Taiwan AI Labs (AI Labs.tw)](https://ailabs.tw). He worked on biomedical literature mining, polygenic risk, T-cell receptor binding, and single-cell analysis.
+Li Peng-Hsuan is a machine learning and natural language processing engineer at [Taiwan AI Labs (AI Labs.tw)](https://ailabs.tw). He worked on biomedical language modeling, biomedical literature mining, polygenic risk prediction, T-cell receptor binding, and single-cell gene regulatory networks.
 
 Peng-Hsuan has been a graduate student under University Fellowship at the [Department of Linguistics, Ohio State University](https://linguistics.osu.edu), advised by [Dr. Michael White](https://u.osu.edu/white.1240). He worked on paraphrase generation for virtual patient dialogues.
 

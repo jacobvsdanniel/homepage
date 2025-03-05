@@ -2,7 +2,14 @@
 
 <h2>Project</h2>
 
-* [pubmedKB: End-to-end Relation Extraction for Biomedical Literature.](https://github.com/jacobvsdanniel/pubmedkb_core)<br />
+* [LORE: Build Knowledge Graphs, Embeddings, and Association Predictors from Literature with LLM.](https://github.com/jacobvsdanniel/LORE)<br />
+Peng-Hsuan Li, Yih-Yun Sun, and Jia-Hsin Huang. 2024.<br />
+*Taiwan AI Labs*.<br />
+<br />
+![LORE](img/LORE.png)<br />
+<br />
+
+* [pubmedKB: End-to-End Relation Extraction for Biomedical Literature.](https://github.com/jacobvsdanniel/pubmedkb_core)<br />
 Peng-Hsuan Li, Ting-Fu Chen, and Jia-Hsin Huang. 2022.<br />
 *Taiwan AI Labs*.<br />
 <br />

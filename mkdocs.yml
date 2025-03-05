@@ -2,7 +2,7 @@
 # use_directory_urls: false
 # plugins: []
 
-site_name: Peng-Hsuan Li
+site_name: Li Peng-Hsuan
 nav:
     - Bio: index.md
     - Project: project.md
