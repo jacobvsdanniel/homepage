@@ -2,6 +2,9 @@
 
 <h2>Presentation</h2>
 
+Peng-Hsuan Li. 2025. <span>Knowledge Graph and LLM: Recent Methodologies and Applications.</span> *Taiwan AI Labs*.<br />
+[[slides]](doc/2025-04-22_Knowledge_Graph_and_LLM.pdf)
+
 Peng-Hsuan Li. 2024. <span>Positional Encodings and Length Generalization for Generative Transformers.</span> *Taiwan AI Labs*.<br />
 [[slides]](doc/2024-11-22_Positional_Encodings_and_Length_Generalization.pdf)
 
